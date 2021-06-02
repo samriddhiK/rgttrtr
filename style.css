@@ -1,0 +1,49 @@
+  .gimme_money
+  {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px green;
+  }
+  .heading_div
+  {
+    float: none ;
+    background: white ; 
+    padding: 10px;
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px red;
+  }
+  .gimme_500_billion_dollars
+  {
+    font-size: 18px ;
+  }
+  .gimme_1_trillion_dollars
+  {
+    box-shadow:5px 5px 5px green;
+    font-size: 20px;
+  }
+ 
+  .result_para_tag span
+  {
+    white-space: pre-line;
+  }
+
+  .gimme_money {
+    position: fixed;
+    color: honeydew;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    line-height: 3;
+    text-align: center;
+    box-shadow: blue;
+  }
+
+  canvas
+  {
+    border:5px solid red;
+    border-radius:20px;
+    box-shadow:5px 5px 5px black;
+    margin-top: -50px;
+  }
